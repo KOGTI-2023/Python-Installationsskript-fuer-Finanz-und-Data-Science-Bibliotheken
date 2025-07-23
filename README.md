@@ -4,7 +4,7 @@
 
 Dieses Repository enthält ein Python-Skript sowie eine Batch-Datei, mit denen Sie gängige Finanz- und Data-Science-Bibliotheken unter Windows automatisiert installieren können. Damit wird die Einrichtung einer passenden Entwicklungsumgebung erleichtert.
 
-[**Sehen Sie sich die interaktive Infografik an\!**](https://www.google.com/search?q=Infografik.html)
+[**Sehen Sie sich die interaktive Infografik an\!**](Infografik.html)
 
 ## **Inhalt**
 
